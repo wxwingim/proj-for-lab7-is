@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d79452ca_002Dc725_002D45ea_002Dbd9b_002D501980c23aa5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::7E07F00B-1775-42C5-B41F-AEB5CDEF8442::.NETCoreApp,Version=v3.1::ServerTests.ClientControllerTests.GetAllItems_ValidCall&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B45043DA-AA65-43CC-A3C2-3B1004BEFD47::.NETCoreApp,Version=v3.1::AgentTests.AgentAppMockTests.AddNewItem_Success&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B45043DA-AA65-43CC-A3C2-3B1004BEFD47::.NETCoreApp,Version=v3.1::AgentTests.AgentAppMockTests.AddNewItem_WithNull&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B45043DA-AA65-43CC-A3C2-3B1004BEFD47::.NETCoreApp,Version=v3.1::AgentTests.AgentAppMockTests.AddNewItem_WithEmptyData&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B45043DA-AA65-43CC-A3C2-3B1004BEFD47::.NETCoreApp,Version=v3.1::AgentTests.AgentAppMockTests.AddNewItem_WithFailData&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7E07F00B-1775-42C5-B41F-AEB5CDEF8442::.NETCoreApp,Version=v3.1::ServerTests.ClientControllerTests.CreateItem_Success&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7E07F00B-1775-42C5-B41F-AEB5CDEF8442::.NETCoreApp,Version=v3.1::ServerTests.ClientControllerTests.CreateItem_WithEmptyData&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

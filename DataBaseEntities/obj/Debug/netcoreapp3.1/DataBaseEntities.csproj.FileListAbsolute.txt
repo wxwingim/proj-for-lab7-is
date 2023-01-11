@@ -1,0 +1,12 @@
+E:\workspase\developmentComponentsIS\LabTDDgrpc\LabTDDgrpc\DataBaseEntities\bin\Debug\netcoreapp3.1\DataBaseEntities.deps.json
+E:\workspase\developmentComponentsIS\LabTDDgrpc\LabTDDgrpc\DataBaseEntities\bin\Debug\netcoreapp3.1\DataBaseEntities.dll
+E:\workspase\developmentComponentsIS\LabTDDgrpc\LabTDDgrpc\DataBaseEntities\bin\Debug\netcoreapp3.1\DataBaseEntities.pdb
+E:\workspase\developmentComponentsIS\LabTDDgrpc\LabTDDgrpc\DataBaseEntities\obj\Debug\netcoreapp3.1\DataBaseEntities.AssemblyInfoInputs.cache
+E:\workspase\developmentComponentsIS\LabTDDgrpc\LabTDDgrpc\DataBaseEntities\obj\Debug\netcoreapp3.1\DataBaseEntities.AssemblyInfo.cs
+E:\workspase\developmentComponentsIS\LabTDDgrpc\LabTDDgrpc\DataBaseEntities\obj\Debug\netcoreapp3.1\DataBaseEntities.csproj.CoreCompileInputs.cache
+E:\workspase\developmentComponentsIS\LabTDDgrpc\LabTDDgrpc\DataBaseEntities\obj\Debug\netcoreapp3.1\DataBaseEntities.dll
+E:\workspase\developmentComponentsIS\LabTDDgrpc\LabTDDgrpc\DataBaseEntities\obj\Debug\netcoreapp3.1\DataBaseEntities.pdb
+E:\workspase\developmentComponentsIS\LabTDDgrpc\LabTDDgrpc\DataBaseEntities\bin\Debug\netcoreapp3.1\DataBaseEntities.runtimeconfig.json
+E:\workspase\developmentComponentsIS\LabTDDgrpc\LabTDDgrpc\DataBaseEntities\bin\Debug\netcoreapp3.1\DataBaseEntities.runtimeconfig.dev.json
+E:\workspase\developmentComponentsIS\LabTDDgrpc\LabTDDgrpc\DataBaseEntities\obj\Debug\netcoreapp3.1\DataBaseEntities.genruntimeconfig.cache
+E:\workspase\developmentComponentsIS\LabTDDgrpc\LabTDDgrpc\DataBaseEntities\obj\Debug\netcoreapp3.1\DataBaseEntities.csproj.AssemblyReference.cache

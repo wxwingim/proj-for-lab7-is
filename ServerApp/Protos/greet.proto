@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option csharp_namespace = "ServerApp";
+
+package greet;
+
+service Agent{
+  rpc AddNewItem (AddRequest) returns (AddResponse);
+}
+
+message AddRequest{
+  string number = 1;
+  string name = 2;
+  int32 amount = 3;
+}
+
+message AddResponse{
+  bool res = 1;
+}
