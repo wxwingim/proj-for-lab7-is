@@ -33,6 +33,7 @@ namespace ClientApp
             //services.AddTransient<IClientRepositories<Item>, ClientService<Item>>();
             //services.AddScoped<IClientRepositories<Item>, ClientService<Item>>();
             services.AddHttpClient<IClientRepositories<Item>, ClientService<Item>>();
+            jkjkj
             //services.AddHttpClient();
         }
 
